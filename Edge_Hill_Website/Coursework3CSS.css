@@ -593,6 +593,20 @@ a:active {
 	margin-top: 1150px;
 }
 
+.aboutUsFooter {
+	color: hsla(0,0%,100%,1.00);
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	margin-top: 800px;
+	background-color: hsla(0,0%,36%,1.00);
+	height: 240px;
+	text-align: left;
+	text-indent: 10px;
+	line-height: 1;
+	padding-top: 15px;
+	font-size: 12px;
+	width: 970px;
+}
+
 /*Style Change*/
 .smallText {
 	font-size: 10px;
