@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Practice Git<\title>
+  <\head>
+  <body>
+    <h1> This is a practice <\h1>
+    <div>
+      <p>Practicing pushing and pulling to and from git repositories.<\p>
+    <\div>
+  <\body>
+<\html>
